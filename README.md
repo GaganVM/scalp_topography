@@ -36,5 +36,5 @@ This repository contains MATLAB script (using EEGLAB) to compute and visualize t
 ```
 
 <p align="center">
-  <img src="/Users/gaganmundada/Desktop/scalp_topography/Figure_1.png" alt="Alpha Map" width="400">
+  <img src="figures/Figure_1.png" alt="Alpha Map" width="400">
 </p>
